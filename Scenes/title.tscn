@@ -231,53 +231,53 @@ offset_bottom = 26.24
 scale = Vector2(8, 8)
 pivot_offset = Vector2(38, 14)
 
-[node name="Jolly" type="HBoxContainer" parent="CanvasLayer/Title"]
+[node name="pixel" type="HBoxContainer" parent="CanvasLayer/Title"]
 layout_mode = 2
 
-[node name="P" type="TextureRect" parent="CanvasLayer/Title/Jolly"]
+[node name="P" type="TextureRect" parent="CanvasLayer/Title/pixel"]
 layout_mode = 2
 texture = ExtResource("28_frwvt")
 stretch_mode = 4
 
-[node name="I" type="TextureRect" parent="CanvasLayer/Title/Jolly"]
+[node name="I" type="TextureRect" parent="CanvasLayer/Title/pixel"]
 layout_mode = 2
 texture = ExtResource("29_85s0k")
 stretch_mode = 4
 
-[node name="X" type="TextureRect" parent="CanvasLayer/Title/Jolly"]
+[node name="X" type="TextureRect" parent="CanvasLayer/Title/pixel"]
 layout_mode = 2
 texture = ExtResource("30_yb3nd")
 stretch_mode = 4
 
-[node name="E" type="TextureRect" parent="CanvasLayer/Title/Jolly"]
+[node name="E" type="TextureRect" parent="CanvasLayer/Title/pixel"]
 layout_mode = 2
 texture = ExtResource("8_kqyc0")
 stretch_mode = 4
 
-[node name="L" type="TextureRect" parent="CanvasLayer/Title/Jolly"]
+[node name="L" type="TextureRect" parent="CanvasLayer/Title/pixel"]
 layout_mode = 2
 texture = ExtResource("4_ukx0p")
 stretch_mode = 4
 
-[node name="Roger" type="HBoxContainer" parent="CanvasLayer/Title"]
+[node name="hero" type="HBoxContainer" parent="CanvasLayer/Title"]
 layout_mode = 2
 
-[node name="H" type="TextureRect" parent="CanvasLayer/Title/Roger"]
+[node name="H" type="TextureRect" parent="CanvasLayer/Title/hero"]
 layout_mode = 2
 texture = ExtResource("33_jelu8")
 stretch_mode = 4
 
-[node name="E" type="TextureRect" parent="CanvasLayer/Title/Roger"]
+[node name="E" type="TextureRect" parent="CanvasLayer/Title/hero"]
 layout_mode = 2
 texture = ExtResource("8_kqyc0")
 stretch_mode = 4
 
-[node name="R" type="TextureRect" parent="CanvasLayer/Title/Roger"]
+[node name="R" type="TextureRect" parent="CanvasLayer/Title/hero"]
 layout_mode = 2
 texture = ExtResource("6_wu3jk")
 stretch_mode = 4
 
-[node name="O" type="TextureRect" parent="CanvasLayer/Title/Roger"]
+[node name="O" type="TextureRect" parent="CanvasLayer/Title/hero"]
 layout_mode = 2
 texture = ExtResource("3_di126")
 stretch_mode = 4
